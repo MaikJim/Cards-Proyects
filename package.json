@@ -1,0 +1,19 @@
+{
+  "name": "cards-proyects",
+  "version": "1.0.0",
+  "description": "Consulting the random users width API placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaikJim/Cards-Proyects.git"
+  },
+  "author": "Maikol Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaikJim/Cards-Proyects/issues"
+  },
+  "homepage": "https://github.com/MaikJim/Cards-Proyects#readme"
+}
