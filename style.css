@@ -2,9 +2,29 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+html{
     font-size: 62.5%;
 }
 body{
     font-size: 1.6rem;
+    font-family: 'Dancing Script', cursive;
+}
+header {
+    text-align: center;
+    height: 50px;
+    background-color: cornsilk;
+}
+main.cards-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+    font-size: 1.7rem;
+    text-align: center;
+}
+main.cards-container div img{
+    width: 320px;
+    padding: 10px;
 }
 
