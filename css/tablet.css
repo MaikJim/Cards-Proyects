@@ -1,0 +1,13 @@
+.card-container{
+    width: 500px;
+    display: flex;
+}
+main.cards-container div img{
+    width: 200px;
+    padding: 10px;
+}
+.text-container{
+    width: 100%;
+    place-content: center;
+    margin-top: 50px;
+}
